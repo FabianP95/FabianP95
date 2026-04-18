@@ -10,7 +10,7 @@ Hallo, ich bin Fabian, bilde mich aktuell zum Frontend Developer fort und arbeit
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/fabian-puchta-7ba7383b7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
