@@ -1,4 +1,4 @@
-Hallo, ich bin Fabian, bilde mich aktuell zum Frontend Developer fort und arbeite aktuell als Dokumentationsassistent im Gesundheitswesen.
+Hallo, ich bin Fabian, bin Junior Frontend Developer, bilde mich aktuell zum Backend Entwickler/Fullstack Entwickler weiter und arbeite als Dokumentationsassistent im Gesundheitswesen.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
